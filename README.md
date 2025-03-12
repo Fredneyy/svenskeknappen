@@ -9,5 +9,5 @@ It restarts the system.
 2. Run `npm i`
 3. Then run `npm run dev`
 4. Open the website in your favorite browser
-5. Click the swedish button to restart the system 🧘🏼‍♀️
+5. Click the Swedish button to restart the system 🧘🏼‍♀️
 6. Done! ✅
