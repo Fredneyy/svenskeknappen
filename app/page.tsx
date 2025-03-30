@@ -22,7 +22,7 @@ export default function Home() {
     }
   }
 
-  function clickActionHandler(e: React.MouseEvent<HTMLButtonElement>) {
+  function clickActionHandler() {
     if (isOn) {
       turnOff.play();
     } else {
